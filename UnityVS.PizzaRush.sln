@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.PizzaRush.CSharp.Plugins", "UnityVS.PizzaRush.CSharp.Plugins.csproj", "{C05F19A1-EF1A-A2BE-E85E-1BD5F94A20C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.PizzaRush.CSharp", "UnityVS.PizzaRush.CSharp.csproj", "{BA68D41B-48F6-0823-370A-E59B9309B715}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.PizzaRush.CSharp.Editor", "UnityVS.PizzaRush.CSharp.Editor.csproj", "{86985256-E38C-EFCB-8FE6-D17FCF342D29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C05F19A1-EF1A-A2BE-E85E-1BD5F94A20C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C05F19A1-EF1A-A2BE-E85E-1BD5F94A20C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C05F19A1-EF1A-A2BE-E85E-1BD5F94A20C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C05F19A1-EF1A-A2BE-E85E-1BD5F94A20C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA68D41B-48F6-0823-370A-E59B9309B715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA68D41B-48F6-0823-370A-E59B9309B715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA68D41B-48F6-0823-370A-E59B9309B715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA68D41B-48F6-0823-370A-E59B9309B715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86985256-E38C-EFCB-8FE6-D17FCF342D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86985256-E38C-EFCB-8FE6-D17FCF342D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86985256-E38C-EFCB-8FE6-D17FCF342D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86985256-E38C-EFCB-8FE6-D17FCF342D29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
